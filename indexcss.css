@@ -1,0 +1,46 @@
+#indexcss {
+    list-style-type: none;
+}
+#indexcss>table {
+    padding:5px;
+    background-color: #191919;
+    border-radius: 5px;
+    margin: -0px;
+    color: #ffffff;
+    text-align: center;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#page1 {
+    padding:5px;
+    background-color: #191919;
+    border-radius: 5px;
+    margin: -0px;
+    color: #ffffff;
+    text-align: left;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#page2 {
+    padding:5px;
+    background-color: #191919;
+    border-radius: 5px;
+    margin: -0px;
+    color: #ffffff;
+    text-align: right;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#page3 {
+    padding:5px;
+    background-color: #191919;
+    border-radius: 5px;
+    margin: -0px;
+    color: #ffffff;
+    text-align: justify-all;
+    border-collapse: collapse;
+    width: 100%;
+}
